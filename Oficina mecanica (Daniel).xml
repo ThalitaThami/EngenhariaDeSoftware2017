@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HansoftProjectManagerXML>
+    <HansoftXMLVersion>2</HansoftXMLVersion>
+    <Language>English</Language>
+    <DateFormat>yyyy-mm-dd</DateFormat>
+    <TimeFormat>24hours</TimeFormat>
+    <FindFunctionActive>0</FindFunctionActive>
+    <ProjectMethod>1</ProjectMethod>
+    <ResourceAnalysisAllInProject>
+        <ResourceAnalysis>
+            <ResourceAnalysisName>Example Proj Manager</ResourceAnalysisName>
+            <ResourceAnalysisRemainingDaysInProject>0</ResourceAnalysisRemainingDaysInProject>
+        </ResourceAnalysis>
+    </ResourceAnalysisAllInProject>
+    <Content>PlanningCalenderResourceAllocation</Content>
+    <Project>
+        <ProjectName>Oficina mecanica</ProjectName>
+        <CalenderAndWorkingHours>
+            <HolidaysCalenderCountry></HolidaysCalenderCountry>
+            <WeekWorkingDaysAndHours/>
+            <Monday>
+                <Working>Yes</Working>
+            </Monday>
+            <Tuesday>
+                <Working>Yes</Working>
+            </Tuesday>
+            <Wednesday>
+                <Working>Yes</Working>
+            </Wednesday>
+            <Thursday>
+                <Working>Yes</Working>
+            </Thursday>
+            <Friday>
+                <Working>Yes</Working>
+            </Friday>
+            <Saturday>
+                <Working>No</Working>
+            </Saturday>
+            <Sunday>
+                <Working>No</Working>
+            </Sunday>
+            <SpecificDaySettings/>
+            <SpecificWorkingHoursSettings/>
+        </CalenderAndWorkingHours>
+    </Project>
+    <ActivityProjects>
+        <Project>
+            <ProjectID>2902</ProjectID>
+            <ProjectName>Oficina mecanica</ProjectName>
+        </Project>
+    </ActivityProjects>
+    <Activities>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2909</DatabaseID>
+            <DatabaseReferenceID>2910</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 1</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_MainBacklogPriority>3</PreCreatedColumn_MainBacklogPriority>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 18:55</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 18:55</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao gerente cadastrar, consultar, alterar ou excluir  funcionários, contendo: nome completo, endereço completo (estado, município, rua, bairro, complemento), CPF, cargo ocupado.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 21:55:11</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>-2</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2913</DatabaseID>
+            <DatabaseReferenceID>2914</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 2</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:04</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:04</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao gerente cadastrar, consultar, alterar ou excluir clientes, contendo: nome completo, endereço completo (estado, município, rua, bairro, complemento), dados do veículo (modelo, marca, placa, ano), telefone e email.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:04:37</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2910</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2915</DatabaseID>
+            <DatabaseReferenceID>2916</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 3</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:09</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:09</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve gerar um login e senha para o cliente para que o mesmo possa acompanhar todos os processos envolvendo o serviço requisitado.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:09:43</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2914</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2917</DatabaseID>
+            <DatabaseReferenceID>2918</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 4</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:14</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:14</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve cadastrar, consultar, alterar ou excluir serviços.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:14:28</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2916</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2919</DatabaseID>
+            <DatabaseReferenceID>2920</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 5</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:14</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:14</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve enviar emails para o cliente avisando que o carro está pronto.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:14:58</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2918</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2921</DatabaseID>
+            <DatabaseReferenceID>2922</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 6</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:18</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:18</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao funcionário cadastrar, consultar, alterar ou excluir fornecedores, contendo: nome, endereço completo (estado, município, rua, bairro, complemento), telefone,marcas trabalhadas.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:18:38</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2920</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2925</DatabaseID>
+            <DatabaseReferenceID>2926</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 7</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:19</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:19</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao gerente cadastrar, consultar, alterar ou excluir peças ao estoque, contendo: dados das peças (quantidade, nome, fabricante, veículos que são compatíveis).&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:19:09</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2922</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2935</DatabaseID>
+            <DatabaseReferenceID>2936</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 8</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:20</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve  gerar históricos de peças mais vendidas ou utilizadas e serviços mais prestados referentes ao mês selecionado.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:20:18</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2926</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2937</DatabaseID>
+            <DatabaseReferenceID>2938</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 9</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:20</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve calcular e gravar o lucro obtido em cada peça comprada.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:20:35</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2936</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2939</DatabaseID>
+            <DatabaseReferenceID>2940</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 10</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:20</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve salvar o tempo de garantia das peças, informando o estado e guardar observações sobre as mesmas.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:20:36</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2938</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2941</DatabaseID>
+            <DatabaseReferenceID>2942</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 11</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:20</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao funcionário gerar, alterar, consultar ou excluir uma ordem de serviço, contendo: cliente (já cadastrado), veículo, relação de serviços, relação de peças,entrada e saída do veículo,funcionário que executou o serviço,preços.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:20:48</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2940</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2943</DatabaseID>
+            <DatabaseReferenceID>2944</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 12</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:20</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao funcionário salvar, consulta e alterar os pagamentos feitos pelos clientes.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:20:51</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2942</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2945</DatabaseID>
+            <DatabaseReferenceID>2946</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 13</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:21</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:21</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve ser capaz de gerar uma lista de clientes inadimplentes.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:21:02</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2944</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2947</DatabaseID>
+            <DatabaseReferenceID>2948</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 14</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:21</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:21</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao funcionário consulta ao histórico do veículo contendo: orçamentos já realizados, defeitos prévios e reparos realizados.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:21:08</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2946</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2949</DatabaseID>
+            <DatabaseReferenceID>2950</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 15</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:21</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:21</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao gerente cadastrar, consultar, alterar ou excluir os horários de serviço dos funcionários.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:21:09</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2948</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2951</DatabaseID>
+            <DatabaseReferenceID>2952</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 16</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:22</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao gerente cadastrar, consultar, alterar ou excluir os ganhos e despesas da semana, contendo: lucro com peças,mão de obra, contas da oficina,despesas com funcionários e outros.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:22:02</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2950</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2953</DatabaseID>
+            <DatabaseReferenceID>2954</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 17</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:22</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve emitir avisos  de despesas que ainda devem ser pagas.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:22:06</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2952</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2955</DatabaseID>
+            <DatabaseReferenceID>2956</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 18</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:22</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve todo final de mês gerar um relatório com todos os ganhos e despesas, números de veículos trabalhados.&lt;/COLOR&gt;
+</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:22:13</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2954</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2957</DatabaseID>
+            <DatabaseReferenceID>2958</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 19</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:22</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve ser capaz de mandar feedback para os clientes. Os alertando do andamento dos serviços requisitados, orçamentos e prazos.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:22:14</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2956</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2902</ProjectID>
+            <DatabaseID>2959</DatabaseID>
+            <DatabaseReferenceID>2960</DatabaseReferenceID>
+            <TaskName>Requisito Funcional 20</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 19:22</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O  sistema deve agendar próxima revisão preventiva.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-03 22:22:48</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2958</SortedViewPreviousItemID>
+        </Task>
+    </Activities>
+</HansoftProjectManagerXML>
