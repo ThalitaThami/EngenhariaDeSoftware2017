@@ -14,7 +14,7 @@
     </ResourceAnalysisAllInProject>
     <Content>PlanningCalenderResourceAllocation</Content>
     <Project>
-        <ProjectName>Oficina Mecanica</ProjectName>
+        <ProjectName>Oficina Mecânica</ProjectName>
         <CalenderAndWorkingHours>
             <HolidaysCalenderCountry></HolidaysCalenderCountry>
             <WeekWorkingDaysAndHours/>
@@ -45,15 +45,15 @@
     </Project>
     <ActivityProjects>
         <Project>
-            <ProjectID>2898</ProjectID>
-            <ProjectName>Oficina Mecanica</ProjectName>
+            <ProjectID>2983</ProjectID>
+            <ProjectName>Oficina Mecânica</ProjectName>
         </Project>
     </ActivityProjects>
     <Activities>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2901</DatabaseID>
-            <DatabaseReferenceID>2909</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2986</DatabaseID>
+            <DatabaseReferenceID>2901</DatabaseReferenceID>
             <TaskName>Requisito Funcional 1</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -81,7 +81,7 @@
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_MainBacklogPriority>3</PreCreatedColumn_MainBacklogPriority>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 18:55</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -102,9 +102,9 @@
             <SortedViewPreviousItemID>-2</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2902</DatabaseID>
-            <DatabaseReferenceID>2913</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2987</DatabaseID>
+            <DatabaseReferenceID>2902</DatabaseReferenceID>
             <TaskName>Requisito Funcional 2</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -131,7 +131,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:04</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -149,12 +149,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2909</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2901</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2903</DatabaseID>
-            <DatabaseReferenceID>2915</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2988</DatabaseID>
+            <DatabaseReferenceID>2903</DatabaseReferenceID>
             <TaskName>Requisito Funcional 3</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -181,7 +181,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:09</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -199,12 +199,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2913</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2902</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2904</DatabaseID>
-            <DatabaseReferenceID>2917</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2989</DatabaseID>
+            <DatabaseReferenceID>2904</DatabaseReferenceID>
             <TaskName>Requisito Funcional 4</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -231,7 +231,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:14</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -249,12 +249,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2915</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2903</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2905</DatabaseID>
-            <DatabaseReferenceID>2919</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2990</DatabaseID>
+            <DatabaseReferenceID>2905</DatabaseReferenceID>
             <TaskName>Requisito Funcional 5</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -281,7 +281,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:14</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -299,12 +299,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2917</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2904</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2906</DatabaseID>
-            <DatabaseReferenceID>2921</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2991</DatabaseID>
+            <DatabaseReferenceID>2906</DatabaseReferenceID>
             <TaskName>Requisito Funcional 6</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -331,7 +331,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:18</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -349,12 +349,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2919</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2905</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2907</DatabaseID>
-            <DatabaseReferenceID>2925</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2992</DatabaseID>
+            <DatabaseReferenceID>2907</DatabaseReferenceID>
             <TaskName>Requisito Funcional 7</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -381,7 +381,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:19</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -399,12 +399,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2921</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2906</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2908</DatabaseID>
-            <DatabaseReferenceID>2935</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2993</DatabaseID>
+            <DatabaseReferenceID>2908</DatabaseReferenceID>
             <TaskName>Requisito Funcional 8</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -431,7 +431,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -449,12 +449,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2925</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2907</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2910</DatabaseID>
-            <DatabaseReferenceID>2937</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2994</DatabaseID>
+            <DatabaseReferenceID>2910</DatabaseReferenceID>
             <TaskName>Requisito Funcional 9</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -481,7 +481,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -499,12 +499,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2935</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2908</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2911</DatabaseID>
-            <DatabaseReferenceID>2939</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2995</DatabaseID>
+            <DatabaseReferenceID>2911</DatabaseReferenceID>
             <TaskName>Requisito Funcional 10</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -531,7 +531,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -549,12 +549,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2937</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2910</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2912</DatabaseID>
-            <DatabaseReferenceID>2941</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2996</DatabaseID>
+            <DatabaseReferenceID>2912</DatabaseReferenceID>
             <TaskName>Requisito Funcional 11</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -581,7 +581,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -599,12 +599,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2939</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2911</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2914</DatabaseID>
-            <DatabaseReferenceID>2943</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2997</DatabaseID>
+            <DatabaseReferenceID>2914</DatabaseReferenceID>
             <TaskName>Requisito Funcional 12</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -631,7 +631,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:20</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -649,12 +649,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2941</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2912</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2916</DatabaseID>
-            <DatabaseReferenceID>2945</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2998</DatabaseID>
+            <DatabaseReferenceID>2916</DatabaseReferenceID>
             <TaskName>Requisito Funcional 13</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -681,7 +681,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:21</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -699,12 +699,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2943</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2914</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2918</DatabaseID>
-            <DatabaseReferenceID>2947</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>2999</DatabaseID>
+            <DatabaseReferenceID>2918</DatabaseReferenceID>
             <TaskName>Requisito Funcional 14</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -731,7 +731,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:21</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -749,12 +749,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2945</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2916</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2920</DatabaseID>
-            <DatabaseReferenceID>2949</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3000</DatabaseID>
+            <DatabaseReferenceID>2920</DatabaseReferenceID>
             <TaskName>Requisito Funcional 15</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -781,7 +781,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:21</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -799,12 +799,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2947</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2918</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2922</DatabaseID>
-            <DatabaseReferenceID>2951</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3001</DatabaseID>
+            <DatabaseReferenceID>2922</DatabaseReferenceID>
             <TaskName>Requisito Funcional 16</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -831,7 +831,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -849,12 +849,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2949</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2920</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2923</DatabaseID>
-            <DatabaseReferenceID>2953</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3002</DatabaseID>
+            <DatabaseReferenceID>2923</DatabaseReferenceID>
             <TaskName>Requisito Funcional 17</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -881,7 +881,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -899,12 +899,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2951</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2922</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2924</DatabaseID>
-            <DatabaseReferenceID>2955</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3003</DatabaseID>
+            <DatabaseReferenceID>2924</DatabaseReferenceID>
             <TaskName>Requisito Funcional 18</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -931,13 +931,14 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
                     <PostID>0</PostID>
                     <ParentID>-1</ParentID>
                     <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve todo final de mês gerar um relatório com todos os ganhos e despesas, números de veículos trabalhados.&lt;/COLOR&gt;
+
 </CommentText>
                     <PostedByID>7</PostedByID>
                     <PostedBy>Example Proj Manager</PostedBy>
@@ -950,12 +951,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2953</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2923</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2926</DatabaseID>
-            <DatabaseReferenceID>2957</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3004</DatabaseID>
+            <DatabaseReferenceID>2926</DatabaseReferenceID>
             <TaskName>Requisito Funcional 19</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -982,7 +983,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -1000,12 +1001,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2955</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2924</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2927</DatabaseID>
-            <DatabaseReferenceID>2959</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3005</DatabaseID>
+            <DatabaseReferenceID>2927</DatabaseReferenceID>
             <TaskName>Requisito Funcional 20</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1032,7 +1033,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 19:22</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:26</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -1050,12 +1051,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2957</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2926</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2928</DatabaseID>
-            <DatabaseReferenceID>2929</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3006</DatabaseID>
+            <DatabaseReferenceID>2928</DatabaseReferenceID>
             <TaskName>Requisito Funcional 21</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1082,13 +1083,13 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:31</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:31</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
                     <PostID>0</PostID>
                     <ParentID>-1</ParentID>
-                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir aos funcionários que entrem com login e senha no sistema para acessar informações referentes a empresa.&lt;/COLOR&gt;
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir aos funcionários que entrem com login e senha no sistema para acessar informações referentes a empresa.&lt;/COLOR&gt;
  </CommentText>
                     <PostedByID>7</PostedByID>
                     <PostedBy>Example Proj Manager</PostedBy>
@@ -1101,12 +1102,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2959</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2927</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2930</DatabaseID>
-            <DatabaseReferenceID>2931</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3007</DatabaseID>
+            <DatabaseReferenceID>2930</DatabaseReferenceID>
             <TaskName>Requisito Funcional 22</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1133,7 +1134,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:32</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:32</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -1151,12 +1152,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2929</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2928</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2932</DatabaseID>
-            <DatabaseReferenceID>2933</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3008</DatabaseID>
+            <DatabaseReferenceID>2932</DatabaseReferenceID>
             <TaskName>Requito Funcional 23</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1183,13 +1184,13 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:33</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:33</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
                     <PostID>0</PostID>
                     <ParentID>-1</ParentID>
-                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve fazer o controle de comissões dos funcionários.&lt;/COLOR&gt;
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve fazer o controle de comissões dos funcionários.&lt;/COLOR&gt;
  </CommentText>
                     <PostedByID>7</PostedByID>
                     <PostedBy>Example Proj Manager</PostedBy>
@@ -1202,12 +1203,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2931</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2930</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2934</DatabaseID>
-            <DatabaseReferenceID>2936</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3009</DatabaseID>
+            <DatabaseReferenceID>2934</DatabaseReferenceID>
             <TaskName>Requisito Funcional 24</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1234,13 +1235,13 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:34</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:34</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
                     <PostID>0</PostID>
                     <ParentID>-1</ParentID>
-                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve ser capaz de deixar os funcionários emitirem holerites, checar folgas, horas extras dos últimos 3 meses.&lt;/COLOR&gt;
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve ser capaz de deixar os funcionários emitirem holerites, checar folgas, horas extras dos últimos 3 meses.&lt;/COLOR&gt;
  </CommentText>
                     <PostedByID>7</PostedByID>
                     <PostedBy>Example Proj Manager</PostedBy>
@@ -1253,12 +1254,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2933</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2932</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2938</DatabaseID>
-            <DatabaseReferenceID>2940</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3010</DatabaseID>
+            <DatabaseReferenceID>2938</DatabaseReferenceID>
             <TaskName>Requisito Funcional 25</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1285,13 +1286,13 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:34</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:34</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
                     <PostID>0</PostID>
                     <ParentID>-1</ParentID>
-                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao funcionário detalhar a sequência de serviços a serem feitos. O sistema deve salvar a data e o horário desse relatório do funcionário no momento de envio do mesmo.&lt;/COLOR&gt;
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve permitir ao funcionário detalhar a sequência de serviços a serem feitos. O sistema deve salvar a data e o horário desse relatório do funcionário no momento de envio do mesmo.&lt;/COLOR&gt;
  </CommentText>
                     <PostedByID>7</PostedByID>
                     <PostedBy>Example Proj Manager</PostedBy>
@@ -1304,12 +1305,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2936</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2934</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2942</DatabaseID>
-            <DatabaseReferenceID>2944</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3011</DatabaseID>
+            <DatabaseReferenceID>2942</DatabaseReferenceID>
             <TaskName>Requisito não Funcional 1</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1336,7 +1337,7 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:35</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:38</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
@@ -1354,12 +1355,12 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2940</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2938</SortedViewPreviousItemID>
         </Task>
         <Task>
-            <ProjectID>2898</ProjectID>
-            <DatabaseID>2946</DatabaseID>
-            <DatabaseReferenceID>2948</DatabaseReferenceID>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3012</DatabaseID>
+            <DatabaseReferenceID>2946</DatabaseReferenceID>
             <TaskName>Requisito não Funcional 2</TaskName>
             <TaskIndentLevel>0</TaskIndentLevel>
             <TaskStart>2017-04-03</TaskStart>
@@ -1386,13 +1387,13 @@
             <LockedToBeItemType>1</LockedToBeItemType>
             <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
             <PreCreatedColumn_LastCommentedOn>2017-04-03 22:36</PreCreatedColumn_LastCommentedOn>
-            <PreCreatedColumn_LastUpdatedOn>2017-04-03 22:38</PreCreatedColumn_LastUpdatedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:07</PreCreatedColumn_LastUpdatedOn>
             <CustomColumnDatas/>
             <CommentPostings>
                 <Posting>
                     <PostID>0</PostID>
                     <ParentID>-1</ParentID>
-                    <CommentText>&lt;COLOR=0,0,0&gt;A lista referente ao requisito funcional 8 deve ser organizada das peças mais vendidas ou utilizadas e serviços mais prestados para as peças menos vendidas ou utilizadas e serviços menos prestados.&lt;/COLOR&gt;
+                    <CommentText>&lt;COLOR=0,0,0&gt;A lista referente ao requisito funcional 8 deve ser organizada das peças mais vendidas ou utilizadas e serviços mais prestados para as peças menos vendidas ou utilizadas e serviços menos prestados.&lt;/COLOR&gt;
  </CommentText>
                     <PostedByID>7</PostedByID>
                     <PostedBy>Example Proj Manager</PostedBy>
@@ -1405,7 +1406,407 @@
                 <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
             </WallCustomGroupPosition>
             <WallItemColorCategory>0</WallItemColorCategory>
-            <SortedViewPreviousItemID>2944</SortedViewPreviousItemID>
+            <SortedViewPreviousItemID>2942</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3013</DatabaseID>
+            <DatabaseReferenceID>3014</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 3</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:09</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:09</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve aderir aos principais conceitos de Orientação a Objetos (encapsulamento, herança, polimorfismo, etc).&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:09:08</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>2946</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3015</DatabaseID>
+            <DatabaseReferenceID>3016</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 4</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:09</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:09</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema não deve permitir a criação de senhas com menos de 6 caracteres.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:09:37</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3014</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3017</DatabaseID>
+            <DatabaseReferenceID>3018</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 5</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:10</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:10</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=38,38,38&gt;O sistema deve possibilitar que os relatórios sejam pré-visualizados antes do envio para a impressora.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:10:12</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3016</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3019</DatabaseID>
+            <DatabaseReferenceID>3020</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 6</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:10</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:10</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve proteger a base de dados para apenas usuários autorizados acessarem.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:10:31</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3018</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3021</DatabaseID>
+            <DatabaseReferenceID>3022</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 7</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:10</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:10</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve emitir uma mensagem de &lt;ITALIC&gt;time-out&lt;/ITALIC&gt; caso exceda o tempo limite de resposta para uma determinada tarefa.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:10:47</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3020</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3023</DatabaseID>
+            <DatabaseReferenceID>3024</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 8</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:11</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:11</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve exibir uma mensagem de erro caso seja perdida a conexão com a internet.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:11:05</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3022</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3025</DatabaseID>
+            <DatabaseReferenceID>3026</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 9</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:11</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:11</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve ter sempre um botão para retornar para a tela principal a partir de qualquer tela.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:11:18</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3024</SortedViewPreviousItemID>
+        </Task>
+        <Task>
+            <ProjectID>2983</ProjectID>
+            <DatabaseID>3027</DatabaseID>
+            <DatabaseReferenceID>3028</DatabaseReferenceID>
+            <TaskName>Requisito não Funcional 10</TaskName>
+            <TaskIndentLevel>0</TaskIndentLevel>
+            <TaskStart>2017-04-03</TaskStart>
+            <TaskEnd>2017-04-03</TaskEnd>
+            <DateZones>
+                <DateZone>
+                    <ZoneStart>2017-04-03</ZoneStart>
+                    <ZoneEnd>2017-04-03</ZoneEnd>
+                </DateZone>
+            </DateZones>
+            <WorkingDaysDuration>1</WorkingDaysDuration>
+            <Resources/>
+            <Completed>0</Completed>
+            <PercentCompleted>0</PercentCompleted>
+            <ColorR>0</ColorR>
+            <ColorG>0</ColorG>
+            <ColorB>0</ColorB>
+            <PlannedBy>Example Proj Manager</PlannedBy>
+            <LastUpdatedBy>Example Proj Manager</LastUpdatedBy>
+            <MilestoneLinks/>
+            <LockedToBeSubProject>0</LockedToBeSubProject>
+            <DelegatedTo/>
+            <VisibleTo/>
+            <LockedToBeItemType>1</LockedToBeItemType>
+            <PreCreatedColumn_ItemStatus>1</PreCreatedColumn_ItemStatus>
+            <PreCreatedColumn_LastCommentedOn>2017-04-03 23:11</PreCreatedColumn_LastCommentedOn>
+            <PreCreatedColumn_LastUpdatedOn>2017-04-03 23:11</PreCreatedColumn_LastUpdatedOn>
+            <CustomColumnDatas/>
+            <CommentPostings>
+                <Posting>
+                    <PostID>0</PostID>
+                    <ParentID>-1</ParentID>
+                    <CommentText>&lt;COLOR=0,0,0&gt;O sistema deve utilizar letras de um tamanho facilmente legível em todas as telas.&lt;/COLOR&gt;</CommentText>
+                    <PostedByID>7</PostedByID>
+                    <PostedBy>Example Proj Manager</PostedBy>
+                    <PostTimeUTC>2017-04-04 02:11:22</PostTimeUTC>
+                    <SDKData/>
+                </Posting>
+            </CommentPostings>
+            <WallCustomGroupPosition>
+                <WallCustomGroupPositionX>0</WallCustomGroupPositionX>
+                <WallCustomGroupPositionY>0</WallCustomGroupPositionY>
+            </WallCustomGroupPosition>
+            <WallItemColorCategory>0</WallItemColorCategory>
+            <SortedViewPreviousItemID>3026</SortedViewPreviousItemID>
         </Task>
     </Activities>
 </HansoftProjectManagerXML>
